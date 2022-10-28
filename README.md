@@ -17,5 +17,5 @@
   
 
   
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+<a href="https://www.linkedin.com/in/matheus-victor-avelino-silva-93a949157"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
   
