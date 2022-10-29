@@ -1,6 +1,6 @@
-<h2 align="center"> Olá, me chamo Matheus Victor Avelino Silva ! Bem vindo ao meu perfil GitHub 👋</h2>
+<h2 align="center"> Olá, me chamo Matheus Victor Avelino Silva! Bem vindo ao meu perfil do GitHub 👋</h2>
 <h4> Tenho 25 anos, sou formado no curso técnico em informática pelo senai e atualmente estou cursando desenvolvimento mobile na uninter.Moro em Contagem/Mg, apaixonado por programação, games e gatos.  </h4>
-
+ 
 <img src="https://user-images.githubusercontent.com/40077913/198637624-936cfc72-8c84-4907-a1db-d88388128058.gif">
 
 <h2>Linguagem De Programação</h2>
